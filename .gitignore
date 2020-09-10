@@ -1,7 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,django,macos,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django,macos,visualstudiocode
-my_settings
+my_settings.py
 
 ### Django ###
 *.log
